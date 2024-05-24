@@ -1,1 +1,1 @@
-# Heart-Disease-Prediction
+This repository contains a machine learning project focused on predicting the likelihood of heart disease in patients using logistic regression. The project leverages a dataset comprising various medical attributes and employs logistic regression as the primary predictive model.
